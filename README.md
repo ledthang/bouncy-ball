@@ -5,6 +5,7 @@ Dodge all red things. If you touch red, you die
 
 ## Control
 AD - move
+
 Spacebar - jump
 
 ## Download
