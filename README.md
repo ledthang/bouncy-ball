@@ -10,6 +10,7 @@ Spacebar - jump
 
 ## Download
 You can download release version on our itch.io page.
+
 [![itch.io](https://i.ibb.co/z2TGYV6/itch-io-200px.png)](https://kkingstudio.itch.io/) 
 
 ## Feedback
